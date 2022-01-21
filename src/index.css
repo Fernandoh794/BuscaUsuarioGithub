@@ -74,14 +74,14 @@
 .containergithub {
   margin-top: 5vh;
   background-color: #f1f1f1;
-  height: 35vh;
+  height: 30vh;
   width: 500px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   background: rgba(30, 37, 35, 0.26);
   border-radius: 40px;
-  gap: 30px;
+  gap: 15px;
   overflow: hidden;
   word-wrap: break-word
 }
